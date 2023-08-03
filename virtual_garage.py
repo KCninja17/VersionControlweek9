@@ -55,4 +55,4 @@ while option != 3:
         new_pickup.bed_length(input_bed_length)
         print(f"The pickup has been added to the garage.") 
     else:
-        main
+        main()
